@@ -1,9 +1,9 @@
-### регистрация 
+## регистрация 
+![registration](/reg.png)
 
+## логин
+![login](/login.png)
 
-### логин
+## получить данные текущего пользователя 
 
-
-### получить данные текущего пользователя 
-
-!(https://github.com/deadea/postmantest/blob/main/getcurrent.png?raw=true);
+![get current user](/getcurrent.png)
